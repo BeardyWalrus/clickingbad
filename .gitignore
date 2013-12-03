@@ -1,0 +1,14 @@
+
+app_docroot/config.xml
+
+app_docroot/index.html
+
+docroot/index-kardashian.html
+
+docroot/index.html
+
+docroot/thanks.html
+
+docroot/version.json
+
+*.pyc
