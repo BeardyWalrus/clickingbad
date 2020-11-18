@@ -404,7 +404,7 @@ function Game() {
             },
             '10_under_lab': {
                 'label':'Underground Laboratory',
-                'description':'An massive hidden laboratory for your discreet cooking needs',
+                'description':'A massive hidden laboratory for your discreet cooking needs',
                 'amount':0,
                 'risk':0.005,
                 'rps':2000,
@@ -877,7 +877,7 @@ function Game() {
             },
             'mules_1': {
                 'label':'Stuffed Mules',
-                'description':'Your Drug Mules can now sell an additional 2.5 batches at a time',
+                'description':'Your Drug Mules can now sell an additional 3 batches at a time',
                 'action':'sellers.03_drug_mule.rps',
                 'purchased':false,
                 'mod':3,
